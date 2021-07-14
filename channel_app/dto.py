@@ -2,7 +2,6 @@ from channel_app.models import Channel, Price, Discount
 
 
 class ChannelDto:
-
     pass
 
 
